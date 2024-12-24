@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon HTML error: an unclosed div tag. The error is subtle because the div is hidden via CSS, but it can still cause unexpected behavior in some browsers or when the CSS is changed or removed. The solution demonstrates how to correctly close the div tag.
